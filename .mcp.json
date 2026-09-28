@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sf-test": {
+      "type": "http",
+      "url": "https://api.salesforce.com/platform/mcp/v1/platform/sobject-reads",
+      "oauth": {
+        "clientId": "3MVG9n_HvETGhr3BQm_UkNthItvQ.spFh0.Dsk4_oREUR4dUpEX_f0EbwFlC2u3Vyh4frNSdmaQwkg1rNB8OF",
+        "callbackPort": 38000
+      }
+    }
+  }
+}
